@@ -16,3 +16,5 @@ To train the PDGAN code run
 `
 python3 train.py
 `
+For diffusion pipline--
+Download pre-trained model edm-imagenet-64x64-cond-adm.pkl from https://nvlabs-fi-cdn.nvidia.com/edm/pretrained/ and in infinite_image_gen_diffusion directory run main.py to generate new samples.
