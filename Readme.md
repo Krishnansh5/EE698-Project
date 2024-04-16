@@ -1,6 +1,6 @@
 ## EE698 Project: Image extension and stitching using inpainting models
 
-This codebase contains two generative models for image inpaiting implementations in pytorch:<br/>
+This codebase contains two generative models for image inpainting implementations in pytorch:<br/>
 Context Encoder[[Code](https://github.com/BoyuanJiang/context_encoder_pytorch/blob/master/train.py)][[Paper](https://arxiv.org/pdf/1604.07379.pdf)]<br/>
 PDGAN[[Code](https://github.com/KumapowerLIU/PD-GAN/tree/main)][[Paper](https://arxiv.org/pdf/2105.02201.pdf)]
 
